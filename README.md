@@ -1,1 +1,1 @@
-projects related to AI Prompt engineering
+projects using AI Prompt engineering on python
